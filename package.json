@@ -1,0 +1,28 @@
+{
+  "name": "generator-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmartins/generator-exercises.git"
+  },
+  "author": "João Martins <joaodiogomartins@gmail.com> (https://jdmartins@github.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdmartins/generator-exercises/issues"
+  },
+  "homepage": "https://github.com/jdmartins/generator-exercises#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "node-fetch": "^1.7.3",
+    "nodemon": "^1.12.1"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
+}
